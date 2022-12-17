@@ -1,0 +1,9 @@
+
+todo:
+local storage for nav counter,
+work on partially register formula
+
+
+
+
+    
